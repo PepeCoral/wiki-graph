@@ -54,3 +54,4 @@ streamlit run app.py
 
 The UI will open at **http://localhost:8501**.
 
+[Video Demo](https://youtu.be/z0klbIzJTFM)
